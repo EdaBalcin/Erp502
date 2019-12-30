@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyEverNote.WebApp", "MyEverNote.WebApp\MyEverNote.WebApp.csproj", "{35574AE3-9890-4917-939E-20982300DBC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyEverNote.BusinessLayer", "MyEverNote.BusinessLayer\MyEverNote.BusinessLayer.csproj", "{6E287DE0-148E-4358-A620-0BAE7127052F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyEverNote.DataAccessLayer", "MyEverNote.DataAccessLayer\MyEverNote.DataAccessLayer.csproj", "{DE077A29-755B-4ECB-9EC5-241396375E0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyEverNote.Entities", "MyEverNote.Entities\MyEverNote.Entities.csproj", "{92C68946-FA9B-4A11-AEBB-C2BB0FBA8C7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyEverNote.Common", "MyEverNote.Common\MyEverNote.Common.csproj", "{EC7362A5-FFA5-40D7-A10E-ECAD9F8D44B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35574AE3-9890-4917-939E-20982300DBC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35574AE3-9890-4917-939E-20982300DBC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35574AE3-9890-4917-939E-20982300DBC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35574AE3-9890-4917-939E-20982300DBC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E287DE0-148E-4358-A620-0BAE7127052F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E287DE0-148E-4358-A620-0BAE7127052F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E287DE0-148E-4358-A620-0BAE7127052F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E287DE0-148E-4358-A620-0BAE7127052F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE077A29-755B-4ECB-9EC5-241396375E0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE077A29-755B-4ECB-9EC5-241396375E0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE077A29-755B-4ECB-9EC5-241396375E0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE077A29-755B-4ECB-9EC5-241396375E0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92C68946-FA9B-4A11-AEBB-C2BB0FBA8C7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92C68946-FA9B-4A11-AEBB-C2BB0FBA8C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92C68946-FA9B-4A11-AEBB-C2BB0FBA8C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92C68946-FA9B-4A11-AEBB-C2BB0FBA8C7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC7362A5-FFA5-40D7-A10E-ECAD9F8D44B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC7362A5-FFA5-40D7-A10E-ECAD9F8D44B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC7362A5-FFA5-40D7-A10E-ECAD9F8D44B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC7362A5-FFA5-40D7-A10E-ECAD9F8D44B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD0DE8AB-42FE-4814-A16B-21A117B289A0}
+	EndGlobalSection
+EndGlobal
